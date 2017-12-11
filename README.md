@@ -8,8 +8,10 @@ BioPython is a Python library that provides tools to make doing tasks in computa
 
 # Problem 1: [Data Formats](http://rosalind.info/problems/frmt/)
 Given: A collection of n GenBank entry IDs. (n≤10)
+
 Return: The ID with the shortest FASTA sequence.
 
 # Problem 2: [Introduction to Protein Databases](http://rosalind.info/problems/dbpr/)
 Given: The UniProt ID of a protein.
+
 Return: A set of information about the protein that is placed into a PowerPoint. Including a list of biological processes in which the protein is involved in.
