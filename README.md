@@ -3,6 +3,7 @@ This is our final project for BB/BCB 100X.
 
 # What is it?
 We decided that for our project, we would learn BioPython using Rosalind. We did some of the example problems on the Rosalind website and decided on one problem that was a good introduction to BioPython, and one that had an interesting concept we could build on.
+
 BioPython is a Python library that provides tools to make doing tasks in computational biology and bioinformatics much simpler by providing many pre made tools.
 
 # Problem 1: [Data Formats](http://rosalind.info/problems/frmt/)
